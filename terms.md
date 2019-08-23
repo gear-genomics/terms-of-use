@@ -25,7 +25,7 @@ owned by EMBL or by third parties) the proper functioning of which cannot be gua
 in this respect, in particular that such software, algorithms or technology would be error-free, flawless or exempt
 from any bug or another unintentional malfunction. EMBL cannot be held responsible for any interpretation of the
 results and other data in the Contents. The use of this service is also subject to the terms and conditions of the
-original providers of reference dataresources and third-party software libraries.
+original providers of reference data resources and third-party software libraries.
 
 ## Data protection Disclaimer
 
@@ -59,7 +59,8 @@ treatments. Users are solely responsible for their decisions based on use of the
 
 ## Data retention
 
-The submitted data and the Contents provided to you are saved on the server for up to a maximum of 24 hours. After expiration of these period, the submitted information and the Contents are deleted.
+The submitted data and the Contents provided to you are saved on the server for up to a maximum of 24 hours.
+After expiration of this period, the submitted information and the Contents are deleted.
 
 ## Cookies and Privacy Disclaimer
 
