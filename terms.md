@@ -8,7 +8,7 @@ terms of use. Please read these terms carefully before accessing or using the Si
 The Site is a web application server that hosts a variety of tools for analyzing genomic data. Data processing is carried
 out in a fully automated fashion, i.e. no manual inspection or any other manual handling of the input data is performed.
 For usage and description of an individual tool, please consult its dedicated documentation available in the
-source code repository of GEAR https://github.com/gear-genomics).
+source code repository of GEAR (https://github.com/gear-genomics).
 
 ## Warranty Disclaimer/Limitation of Liability
 
