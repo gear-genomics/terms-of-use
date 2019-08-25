@@ -84,7 +84,7 @@ is at your own risk.
 
 ## Citing GEAR
 
-If you use the Site in one of your publications please reference the URL https://gear-genomics.com.
+We request but do not require that use of GEAR be cited in publications by referencing the URL https://gear-genomics.com.
 
 ## GEAR License
 
