@@ -86,9 +86,9 @@ is at your own risk.
 
 If you use the Site in one of your publications please reference the URL https://www.gear-genomics.com and please cite our GEAR publications.
 
-Tobias Rausch, Markus Hsi-Yang Fritz, Andreas Untergasser, Vladimir Benes. Tracy: basecalling, alignment, assembly and deconvolution of sanger chromatogram trace files. BMC Genomics 21, 230 (2020).
+Rausch, T., Fritz, M.H., Untergasser, A. and Benes, V. Tracy: basecalling, alignment, assembly and deconvolution of sanger chromatogram trace files. BMC Genomics 21, 230 (2020). (https://doi.org/10.1186/s12864-020-6635-8)
 
-Tobias Rausch, Markus Hsi-Yang Fritz, Jan Korbel, Vladimir Benes. Alfred: interactive multi-sample BAM alignment statistics, feature counting and feature annotation for long- and short-read sequencing. Bioinformatics. 2019 Jul 15;35(14):2489-2491.
+Rausch, T., Fritz, M.H., Korbel, J.O. and Benes, V. Alfred: interactive multi-sample BAM alignment statistics, feature counting and feature annotation for long- and short-read sequencing. Bioinformatics. 2019 Jul 15;35(14):2489-2491. (https://doi.org/10.1093/bioinformatics/bty1007)
 
 ## GEAR License
 
